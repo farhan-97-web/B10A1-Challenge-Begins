@@ -1,0 +1,142 @@
+.banner {
+    width: 100%;
+    height: 652px;
+    background-image: url('assets/Hero-bg.png');
+    background-size: cover;
+}
+
+.heading {
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.card-heading {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.description {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(13, 19, 33);
+}
+
+.card-description {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.centered-img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 54px;
+}
+
+.centered-btn {
+    display: flex;
+    justify-content: center;
+}
+
+
+.black-button {
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    width: 208px;
+    height: 66px;
+    width: 208px;
+    height: 66px;
+    color: rgb(255, 255, 255);
+    margin-top: 32px;
+}
+
+.centered-content {
+    width: 60%;
+    margin: auto;
+}
+
+.white-btn {
+    border-radius: 8px;
+    background: white;
+    width: 208px;
+    height: 66px;
+    width: 208px;
+    height: 66px;
+    color: rgb(13, 19, 33);
+
+}
+
+.why-web-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-box {
+    width: 364px;
+    padding: 40px;
+    margin: 24px;
+}
+.bg-card-one{
+    background-color: #ff4b1e2b;
+}
+.bg-card-two{
+    background-color: #004de833;
+}
+.bg-card-three{
+    background-color: #ffdd0053;
+}
+
+.current-card-content {
+    display: flex;
+}
+
+.link {
+    color: black;
+}
+
+.support-content {
+    width: 1140px;
+    height: 313px;
+    border-radius: 16px;
+    background: url('assets/handshake.jpg');
+    background-size: 1200px 313px;
+}
+
+.text-white {
+    color: white;
+}
+
+.input {
+    width: 548px;
+    height: 57px;
+    border-radius: 8px;
+}
+
+.search-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-area {
+    width: 100%vh;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 150px;
+}
+
+.footer-font {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+.footer-icon{
+    display: flex;
+    gap: 15px;
+}
