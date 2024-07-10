@@ -5,6 +5,15 @@
     background-size: cover;
 }
 
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+
 .heading {
     font-size: 48px;
     font-weight: 800;
@@ -20,12 +29,13 @@
     font-size: 16px;
     font-weight: 400;
     text-align: center;
-    color: rgb(13, 19, 33);
+    color: rgba(42, 48, 62, 0.71);
 }
 
 .card-description {
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 200;
+    color: rgba(42, 48, 62, 0.71);
 }
 
 .centered-img {
