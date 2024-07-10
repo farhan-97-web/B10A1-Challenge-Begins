@@ -111,7 +111,7 @@
     width: 1140px;
     height: 313px;
     border-radius: 16px;
-    background: url('assets/handshake.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url('assets/handshake.jpg');
     background-size: 1200px 313px;
 }
 
